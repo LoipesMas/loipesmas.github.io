@@ -10305,18 +10305,18 @@ body {
   background: linear-gradient(to bottom, #000 0%, rgb(23, 28, 25) 75%, rgb(0, 0, 0) 100%);
   width: 100%;
   padding-top: 7rem;
-  padding-bottom: 11rem;
+  padding-bottom: 6rem;
 }
 
 .section-1 {
-    width: 10%;
+    width: 20%;
     color: red;
 }
 
 
 .about-section {
   padding-top: 3rem;
-  width: 72%;
+  width: 62%;
 }
 .about-section p {
   margin-bottom: 5rem;
